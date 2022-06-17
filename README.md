@@ -1,8 +1,19 @@
 # -Still
 
-MIT License
+# OSS Notice | STILL #
 
-Copyright (c) 2022 STILL
+This application is Copyright © CATEGORY. All rights reserved.
+
+The following sets forth attribution notices for third party software that may be contained in this application.
+
+
+-----------------------------------------------------------------
+Code uses MIT license as follows:
+
+# The MIT License(MIT) #
+
+``````````
+Copyright (c) CATEGORY
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
