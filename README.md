@@ -86,10 +86,16 @@ https://github.com/claris0/good-price-jeju : 모바일 페이지(데모)
 3. [공공데이터포털 데이터](https://www.data.go.kr/)
 4. [카카오 챗봇 API](https://i.kakao.com/docs/tutorial-chatbot-key-features) 
 
+
+
 ## 개발환경
-깃허브 페이지 : javascript
-모바일 앱 : flutter, DART
-챗봇 : 카카오 i 오픈빌더, python
+- 깃허브 페이지 : javascript
+- 모바일 앱 : flutter, DART
+- 챗봇 : 카카오 i 오픈빌더, python
+
+
+
+
 
 
 # 팀원
@@ -102,8 +108,6 @@ https://github.com/claris0/good-price-jeju : 모바일 페이지(데모)
      <td align="center"><a href="https://github.com/claris0"><img src="https://github.com/claris0.png" width="100px;" alt=""/><br /><sub><b><br/>선종호</b></sub></a></td>
    </tr>
 </table>
-
-
 
 
 
