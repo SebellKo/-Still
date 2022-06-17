@@ -22,6 +22,7 @@ https://github.com/claris0/good-price-jeju : 모바일 페이지(데모)
 
 # 프로젝트 파일 소개
 
+```
 ├── README.md
 ├── app.js
 ├── contentsJSON
@@ -50,6 +51,7 @@ https://github.com/claris0/good-price-jeju : 모바일 페이지(데모)
 │   │   └── data_2.csv
 │   └── search.js
 └── style.css
+```
 
 
 
@@ -122,3 +124,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
